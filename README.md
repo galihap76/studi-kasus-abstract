@@ -49,3 +49,7 @@ class Main {
 Dalam analogi ini, kelas `Hewan` adalah seperti "blueprint" atau "template" untuk makhluk hidup, tetapi kita tidak memberikan detail konkrit tentang suaranya. Kedua kelas turunannya, `Kucing` dan `Anjing`, mengisi detail konkret tentang bagaimana suara setiap jenis hewan tersebut.
 
 Hasilnya, ketika kita membuat instance dari kucing dan anjing dan meminta mereka untuk membuat suara, mereka memberikan respons yang sesuai dengan jenis hewan yang mereka wakili. Dengan cara ini, abstraksi dan overriding membantu dalam menciptakan struktur yang fleksibel dan memungkinkan implementasi yang berbeda untuk metode yang sama di kelas-kelas turunan.
+
+## Note
+
+Buat contekan aja biar gak lupa.
